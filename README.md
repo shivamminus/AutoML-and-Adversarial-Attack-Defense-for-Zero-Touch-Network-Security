@@ -87,18 +87,18 @@ Please feel free to contact me for any questions or cooperation opportunities. I
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang, M. E. Rajab, A. Shami, and S. Muhaidat, "Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis," IEEE Transactions on Network and Service Management, pp. 1-28, 2024, doi: 10.1109/TNSM.2024.3376631.
+L. Yang, M. E. Rajab, A. Shami and S. Muhaidat, "Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis," in IEEE Transactions on Network and Service Management, vol. 21, no. 3, pp. 3555-3582, June 2024, doi: 10.1109/TNSM.2024.3376631.
 
 ```
-@article{10472316,
-title = "Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis",
-author = "Li Yang, Mirna El Rajab, Abdallah Shami, and Sami Muhaidat",
-journal = "IEEE Transactions on Network and Service Management",
-volume = {},
-pages = {1-28},
-year = "2024",
-doi = "https://doi.org/10.1109/TNSM.2024.3376631",
-url = "https://ieeexplore.ieee.org/document/10472316"
-}
+@ARTICLE{10472316,
+  author={Yang, Li and Rajab, Mirna El and Shami, Abdallah and Muhaidat, Sami},
+  journal={IEEE Transactions on Network and Service Management}, 
+  title={Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis}, 
+  year={2024},
+  volume={21},
+  number={3},
+  pages={3555-3582},
+  keywords={Security;Automation;Surveys;Computer security;Optimization;Network security;Data models;Zero-touch networks;6G network;AutoML;adversarial attacks;cybersecurity;intrusion detection system;network automation},
+  doi={10.1109/TNSM.2024.3376631}}
 ```
 
